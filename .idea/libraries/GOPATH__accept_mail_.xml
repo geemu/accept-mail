@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;accept-mail&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../cloan" />
+      <root url="file://$PROJECT_DIR$/../practice" />
+      <root url="file://$PROJECT_DIR$/../mailDemo" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../cloan" />
+      <root url="file://$PROJECT_DIR$/../practice" />
+      <root url="file://$PROJECT_DIR$/../mailDemo" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
